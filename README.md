@@ -13,10 +13,10 @@ generate actionable insights.
 - Data Cleaning & Exploratory Data Analysis
 
 ## Projects
--Customer Churn Analysis
--Ecommerce SQL + Python Analysis
--Annual Sales Analysis Dashboard
--Bank Loan Analysis
--Ferns n Petals Sales Analysis Dashboard
--END-TO-END DATA ANALYSIS OF DAIRY SUPPLY CHAIN OPERATIONS
--Pizza Sale Analysis
+- Customer Churn Analysis
+- Ecommerce SQL + Python Analysis
+- Annual Sales Analysis Dashboard
+- Bank Loan Analysis
+- Ferns n Petals Sales Analysis Dashboard
+- END-TO-END DATA ANALYSIS OF DAIRY SUPPLY CHAIN OPERATIONS
+- Pizza Sale Analysis
